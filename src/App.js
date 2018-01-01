@@ -12,7 +12,7 @@ class App extends Component {
       <div>
          
       <h1 className="site-heading text-center text-white d-none d-lg-block">
-        <span className="site-heading-lower">Business Casual</span>
+        <span className="site-heading-lower">New Business Casual</span>
       </h1>
 
      <Nav />
